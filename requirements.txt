@@ -1,8 +1,7 @@
+streamlit
 pandas
-os
 gdown
 seaborn
-sklearn
+scikit-learn
 matplotlib
 joblib
-ngrok
