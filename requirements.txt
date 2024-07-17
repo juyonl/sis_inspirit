@@ -1,0 +1,8 @@
+pandas
+os
+gdown
+seaborn
+sklearn
+matplotlib
+joblib
+ngrok
