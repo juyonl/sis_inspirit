@@ -4,4 +4,4 @@ gdown
 seaborn
 scikit-learn
 matplotlib
-joblib
+joblib==1.4.2
