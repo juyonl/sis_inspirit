@@ -11,7 +11,7 @@ from response import *
 from predictor import *
 
 # Load our DecisionTree model into our web app
-print(numpy.__version__)
+print(np.__version__)
 print(joblib.__version__)
 print(sklearn.__version__)
 model = load("model.joblib")
